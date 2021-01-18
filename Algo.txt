@@ -1,0 +1,4 @@
+1. Choose pizza restaurant.
+2. Choose ingredients.
+3. Compare prices.
+4. Order the pizza.
