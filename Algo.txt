@@ -1,4 +1,9 @@
-1. Choose pizza restaurant.
-2. Choose ingredients.
-3. Compare prices.
-4. Order the pizza.
+1. Choose pizza restaurant
+2. Choose ingredients
+3. Compare prices
+4. Order the pizza
+    4a. Pay By Phone
+    4b. Pay At The Door
+5. Wait for delivery
+6. Greet delivery driver
+7. See step 4b if necessary
